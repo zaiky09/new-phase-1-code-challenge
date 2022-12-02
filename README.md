@@ -61,10 +61,7 @@ To run the application, make sure to install required dependencies by running in
                                                 console.log(speedDetector (80));
                                                 
             To interact with challenge 3:
-                        - Navigate to line 178 and replace the grossSalary value with a value of your choice to determine your net Salary after deductions.
-                                                In the equation:
-                                                
-                                                console.log(grossSalary(30000));
+                        - I honestly had difficulty with this part of the code. Even after seeking understanding from google and colleagues. Revision is needed
                                                 
 -  Followed by 
 
