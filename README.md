@@ -24,7 +24,7 @@ In order for you to use the content on this repo ensure you have the following:
 
         git clone git@github.com:zaiky09/phase-1-code-challenge.git
 
-- Change dirctory to the repository foldr using:
+- Change dirctory to the repository folder using:
 
         cd phase-1-code-challenge.git
 
